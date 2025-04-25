@@ -23,3 +23,29 @@ Verilen sayı listesini minimum hamlede sıralamak için bir algoritma geliştir
 
 Projeler hakkında daha fazla detay için her bir klasörün içine göz atabilirsiniz!
 
+---
+
+# 42-projects
+
+In this repository, you can find the projects I completed as part of the 42 curriculum. Each project was designed to improve my skills in software development and algorithms.
+
+## Projects
+
+### libft
+I built my own C library by rewriting essential C functions from scratch. It covers topics such as memory management, character handling, and string manipulation.
+
+### get_next_line
+I developed a function that reads a file or input line by line. It focuses on file management and buffer usage.
+
+### ft_printf
+I reimplemented the `printf` function in C. It provided practice with formatting, variable arguments, and output management.
+
+### minitalk
+I created a simple messaging system. Communication between server and client applications was handled using UNIX signals.
+
+### push_swap
+I developed an algorithm to sort a given list of numbers with the minimum number of moves. It focuses on stack data structures and sorting algorithms.
+
+---
+
+You can find more details inside each project folder!
